@@ -1,4 +1,4 @@
--- Create the appdb database
+-- Create the appdb data
 CREATE DATABASE IF NOT EXISTS appdb;
 
 -- Use the appdb database
