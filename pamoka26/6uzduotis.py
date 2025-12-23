@@ -2,7 +2,7 @@ sakinys = input("Iveskite sakini: ").lower()
 letter_count ={}
 
 for char in sakinys:
-    if char.isalpha():  # Tikrina, ar simbolis yra raidė
+    if char.isalpha():
         if char in letter_count:
             letter_count[char] += 1
         else:
