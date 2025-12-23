@@ -1,0 +1,11 @@
+{
+    "name": "Deimantas",
+    "age": 22,
+    "grade": "8",
+    "subjects": [
+        "Math",
+        "Science",
+        "History"
+    ],
+    "nieko2": "extra2"
+}

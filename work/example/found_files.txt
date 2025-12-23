@@ -1,0 +1,2 @@
+
+drwxr-xr-x 2 dimonazz dimonazz 4096 Nov  3 20:08 example 

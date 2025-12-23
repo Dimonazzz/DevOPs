@@ -1,0 +1,17 @@
+student1:
+  name: Deimantas
+  age: 19
+  grade: A
+  subjects:
+    - Math
+    - Science
+    - History
+
+student2:
+  name: John Smith
+  age: 25
+  grade: B
+  subjects:
+    - Literature
+    - Art
+    - Physical Education
