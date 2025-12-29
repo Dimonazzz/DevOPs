@@ -1,4 +1,0 @@
-#!/bin/nash
-
-#!/bin/bash
-
